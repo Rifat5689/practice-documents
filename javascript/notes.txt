@@ -1,0 +1,4 @@
+/image/picture.jpg //root folder 
+images/picture.jpg //image folder of current folder 
+picture.jpg //current folder 
+.../picture.jpg ///level up folder
